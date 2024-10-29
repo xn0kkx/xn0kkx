@@ -4,7 +4,7 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
-I'm a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur in cybersecurity. I'm a member of IDCiber, one of the largest cyber defense institutes in Latin America.
+I'm a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur, passionate about advancing cybersecurity solutions. I'm a member of IDCiber, one of the largest cyber defense institutes in Latin America.
 
 I love building pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, working with VueJS and Laravel. Additionally, I'm skilled in Cloud (AWS and Azure) and a Linux expert.
 
