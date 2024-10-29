@@ -53,7 +53,7 @@ I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="./laravel.png" alt="laravel" width="40" height="40"/> 
+    <img src="./laravel.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="./vuejs.png" alt="vuejs" width="40" height="40"/> 
