@@ -43,6 +43,9 @@ I love building pentesting tools using C, C++, Python, and Shell Script. I also 
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
     <img src="./assembly_logo.png" alt="assembly" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="./aws.webp" alt="aws" width="40" height="40"/>
+  </a>
 </p>
 
 <hr width="36%" >
