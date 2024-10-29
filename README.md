@@ -7,7 +7,7 @@ I’m a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur, passi
 
 I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, and I currently utilize these technologies in conjunction with Vue.js and Laravel. Additionally, I am skilled in cloud computing (AWS and Azure) and am an expert in Linux.
 
-<img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVmMWpkZ2xvbHEzdWRsMDhyc2t1c204cXRwcHZ3bjNsZmNiY3hncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
+<img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/3o7btPSUgEgcFybC36/giphy.gif?cid=790b76118hue8t2dlu2u4nlawfeqmd43zxl1m6aj2hhvocbn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
