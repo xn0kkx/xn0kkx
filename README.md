@@ -81,6 +81,9 @@ I love building pentesting tools using C, C++, Python, and Shell Script. I also 
   <a href="https://www.instagram.com/xn0kkx/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xn0kkx" height="30" width="40" />
   </a>
+  <a href="https://discord.com/users/xn0kkx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 <br>
