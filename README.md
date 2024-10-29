@@ -56,7 +56,7 @@ I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also
     <img src="./laravel.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="./vue.webp" alt="vuejs" width="40" height="40"/> 
+    <img src="./vuejs_icon.png" alt="vuejs" width="40" height="40"/> 
   </a>
 </p>
 
