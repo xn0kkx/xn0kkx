@@ -9,7 +9,6 @@ I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,7 +44,7 @@ I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="./Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40" height="40"/>
   </a>
-  <br> 
+  <br>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -57,6 +56,9 @@ I enjoy building pentesting tools using C, C++, Python, and Shell Script. I also
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="./vuejs3d.webp" alt="vuejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p>
 
