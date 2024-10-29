@@ -71,32 +71,17 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><img id="top-langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br>
-    <p>&nbsp;<img id="user-stats" align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br><br><br><br>
-    <p><img id="streak-stats" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
   </div>
   
   <div>
     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
   </div>
 </div>
-
-<script>
-  function updateStats() {
-    document.getElementById('top-langs').src = `https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact&t=${new Date().getTime()}`;
-    document.getElementById('user-stats').src = `https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en&t=${new Date().getTime()}`;
-    document.getElementById('streak-stats').src = `https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark&t=${new Date().getTime()}`;
-  }
-
-  // Atualiza os stats imediatamente ao carregar a página
-  updateStats();
-
-  // Atualiza os stats a cada 12 horas (43200000 ms)
-  setInterval(updateStats, 43200000);
-</script>
-
 
 <br><br><br><br><br><br><br><br><br><br>
 
