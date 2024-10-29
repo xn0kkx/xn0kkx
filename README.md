@@ -1,16 +1,14 @@
 <h1 align="center">Hello there, I'm N0KK </h1>
 
+<p align="left">
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+</p>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
- I'm a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur in cybersecurity. I'm a member of IDCiber, one of the largest cyber defense institutes in Latin America.
+I'm a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur in cybersecurity. I'm a member of IDCiber, one of the largest cyber defense institutes in Latin America.
 
 I love building pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, working with VueJS and Laravel. Additionally, I'm skilled in Cloud (AWS and Azure) and a Linux expert.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -47,32 +45,40 @@ I love building pentesting tools using C, C++, Python, and Shell Script. I also 
   </a>
 </p>
 
-
-
-
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <br><br><br><br><br><br><br>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <br><br><br><br><br><br><br><br><br><br>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
+  </div>
+  
+  <div>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+  </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-turossi-675235201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Turossi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28033161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28033161" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xn0kkx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xn0kkx" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lucas-turossi-675235201/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Turossi" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/28033161" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28033161" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/xn0kkx/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xn0kkx" height="30" width="40" />
+  </a>
 </p>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0kkx&label=Profile%20views&color=0e75b6&style=flat" alt="xn0kkx" /> </p>
-
-------
