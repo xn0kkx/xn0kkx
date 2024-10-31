@@ -5,7 +5,7 @@
 </p>
 I’m a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur, really passionate about improving cybersecurity solutions. I’m a member of IDCiber, one of the largest cyber defense organizations in Latin America.
 
-I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, and I currently use these technologies alongside Vue.js and Laravel. Additionally, I’m skilled in cloud computing (AWS and Azure) and have a strong background in Linux.
+I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, and I currently use essas tecnologias alongside Vue.js e Laravel. Additionally, I’m skilled in cloud computing (AWS and Azure) and have a strong background in Linux.
 
 <img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF2ZjNraDd4YzF2OGdla2ZwajZvM3BsbnJ6ZnFxNTYzdzd0NGVueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
@@ -40,16 +40,16 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <br>
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="./nmap.webp" alt="nmap" width="40" height="40"/>
   </a> 
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="./metasploit.png" alt="metasploit" width="40" height="40"/>
   </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="./Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40" height="40"/>
   </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -61,9 +61,7 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
-  
 </p>
-
 
 <hr width="36%" >
 
@@ -71,11 +69,11 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact&cachebust=20231031" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br>
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en&cachebust=20231031" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br><br><br><br>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark&cachebust=20231031" alt="xn0kkx" /></p>
   </div>
   
   <div>
@@ -105,21 +103,3 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0kkx&label=Profile%20views&color=0e75b6&style=flat" alt="xn0kkx" /> </p>
-
-
-
-Infelizmente essa parte não está atualizando sozinha:
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
-    <br><br><br><br><br><br><br>
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
-    <br><br><br><br><br><br><br><br><br><br>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
-  </div>
-  
-  <div>
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-  </div>
-</div>
