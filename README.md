@@ -71,9 +71,9 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><img align="left" src="readme-stats-n0kk-g9x9wf8ab-xn0kkxs-projects.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <p><img align="left" src="readme-stats-n0kk-git-dependabot-npmand-f07431-xn0kkxs-projects.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br>
-    <p>&nbsp;<img align="left" src="readme-stats-n0kk-g9x9wf8ab-xn0kkxs-projects.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <p>&nbsp;<img align="left" src="readme-stats-n0kk-git-dependabot-npmand-f07431-xn0kkxs-projects.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br><br><br><br>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
   </div>
