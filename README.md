@@ -71,9 +71,9 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p><img align="left" src="readme-stats-n0kk-git-dependabot-npmand-f07431-xn0kkxs-projects.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br>
-    <p>&nbsp;<img align="left" src="readme-stats-n0kk-git-dependabot-npmand-f07431-xn0kkxs-projects.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
     <br><br><br><br><br><br><br><br><br><br>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
   </div>
@@ -105,3 +105,21 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0kkx&label=Profile%20views&color=0e75b6&style=flat" alt="xn0kkx" /> </p>
+
+
+
+Infelizmente essa parte não está atualizando sozinha:
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xn0kkx" /></p>
+    <br><br><br><br><br><br><br>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en" alt="xn0kkx" /></p>
+    <br><br><br><br><br><br><br><br><br><br>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark" alt="xn0kkx" /></p>
+  </div>
+  
+  <div>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+  </div>
+</div>
