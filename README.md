@@ -18,19 +18,18 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 
 <h3>My GitHub Stats</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact&v=1" alt="xn0kkx" /></p>
-    <br><br><br><br><br><br><br>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en&v=1" alt="xn0kkx" /></p>
-    <br><br><br><br><br><br><br><br><br><br>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark&v=1" alt="xn0kkx" /></p>
+    <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact&v=1" alt="xn0kkx" /></p>
+    <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en&v=1" alt="xn0kkx" /></p>
+    <p style="margin: 0;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark&v=1" alt="xn0kkx" /></p>
   </div>
 
   <div>
     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
   </div>
 </div>
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
