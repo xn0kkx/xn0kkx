@@ -52,4 +52,4 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
 </p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0kkx&label=Profile%20views&color=0e75b6&style=flat" alt="xn0kkx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0kkx&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="xn0kkx" /> </p>
