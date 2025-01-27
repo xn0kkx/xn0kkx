@@ -76,11 +76,10 @@ I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also
     <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&show_icons=true&theme=dark&locale=en&layout=compact&v=1" alt="xn0kkx" /></p>
     <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=xn0kkx&show_icons=true&theme=dark&locale=en&v=1" alt="xn0kkx" /></p>
     <p style="margin: 0;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xn0kkx&theme=dark&v=1" alt="xn0kkx" /></p>
-    <p style="margin: 0;"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1463211" style='border:none;'/></p>
   </div>
 
   <div>
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+    <img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
   </div>
 </div>
 
