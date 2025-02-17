@@ -4,7 +4,7 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 <h2>Hack. Detect. Secure. Repeat!</h2>
-<h3>Entrepreneur, ethical hacker, and cybersecurity researcher, I craft innovative security solutions with a passion for offensive security.</h3>
+Entrepreneur, ethical hacker, and cybersecurity researcher, I craft innovative security solutions with a passion for offensive security.
 
 <img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF2ZjNraDd4YzF2OGdla2ZwajZvM3BsbnJ6ZnFxNTYzdzd0NGVueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
