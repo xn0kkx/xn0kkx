@@ -3,9 +3,8 @@
 <p align="left">
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
-I’m a 23-year-old Brazilian pentester, ethical hacker, and entrepreneur, really passionate about improving cybersecurity solutions. I’m a member of IDCiber, one of the largest cyber defense organizations in Latin America.
-
-I enjoy creating pentesting tools using C, C++, Python, and Shell Script. I also have experience with HTML, CSS, JavaScript, and PHP, and I currently use these technologies alongside Vue.js and Laravel. Additionally, I’m skilled in cloud computing (AWS and Azure) and have a strong background in Linux.
+<h2>Hack. Detect. Secure. Repeat!</h2>
+<h3>Entrepreneur, ethical hacker, and cybersecurity researcher, I craft innovative security solutions with a passion for offensive security.</h3>
 
 <img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF2ZjNraDd4YzF2OGdla2ZwajZvM3BsbnJ6ZnFxNTYzdzd0NGVueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
