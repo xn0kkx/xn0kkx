@@ -4,7 +4,7 @@
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 <h2>Hack. Detect. Secure. Repeat!</h2>
-Entrepreneur, ethical hacker, and cybersecurity researcher, I craft innovative security solutions with a passion for offensive security.
+Hacking, coding, malware analysis, music and martial arts
 
 
 <h3 align="left">Languages and Tools:</h3>
