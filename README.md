@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">With 8 years of experience in tech — starting at age 16 and working with computers since I was 3 — I’ve built secure architectures, led engineering teams, and helped launch startups from the ground up. Today, I work as CTO and SRE across multiple companies, combining cybersecurity, DevOps, and software architecture to drive scalable, resilient systems.</p>
+<h4 align="left">With 8 years of experience in tech — starting at age 16 and working with computers since I was 3 — I’ve built secure architectures, led engineering teams, and helped launch startups from the ground up. Today, I work as CTO and SRE across multiple companies, combining cybersecurity, DevOps, and software architecture to drive scalable, resilient systems.</h4>
 
 ###
 
-<p align="left">Techs:</p>
+<h2 align="left">Techs:</h2>
 
 ###
 
@@ -57,14 +57,25 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xn0kkx.xn0kkx&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xn0kkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=xn0kkx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=xn0kkx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xn0kkx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xn0kkx/xn0kkx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xn0kkx/xn0kkx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xn0kkx/xn0kkx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xn0kkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xn0kkx.xn0kkx&"  />
 </div>
 
 ###
