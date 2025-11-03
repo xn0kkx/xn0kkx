@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">With 8 years of experience in tech — starting at age 16 and working with computers since I was 3 — I’ve built secure architectures, led engineering teams, and helped launch startups from the ground up. Today, I work as CTO and SRE across multiple companies, combining cybersecurity, DevOps, and software architecture to drive scalable, resilient systems.</h5>
+<h4 align="left">With 8 years of experience in tech — starting at age 16 and working with computers since I was 3 — I’ve built secure architectures, led engineering teams, and helped launch startups from the ground up. Today, I work as CTO and SRE across multiple companies, combining cybersecurity, DevOps, and software architecture to drive scalable, resilient systems.</h4>
 
 ###
 
@@ -64,6 +64,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xn0kkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xn0kkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -94,7 +96,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xn0kkx.xn0kkx&"  />
 </div>
 
 ###
