@@ -6,7 +6,9 @@
 
 ###
 
-<h4 align="left">With 8 years of experience in tech — starting at age 16 and working with computers since I was 3 — I’ve built secure architectures, led engineering teams, and helped launch startups from the ground up. Today, I work as CTO and SRE across multiple companies, combining cybersecurity, DevOps, and software architecture to drive scalable, resilient systems.</h4>
+<h4 align="left">With over 8 years of professional experience in technology — and a lifelong involvement with computers since early childhood — I have designed secure, scalable architectures, led engineering teams, and contributed to building startups from inception to production.
+
+Today, I operate as CTO and SRE across multiple organizations, integrating cybersecurity, DevOps, and software architecture to deliver resilient, high-availability systems built for scale and long-term sustainability.</h4>
 
 ###
 
